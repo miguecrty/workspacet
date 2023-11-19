@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dirs>
+    <entry loc="/usr/lib/jvm/java-7-openjdk-i386" stamp="1473254078000"/>
+    <entry loc="/usr/lib/jvm/java-8-openjdk-amd64" stamp="1516280209000"/>
+    <entry loc="/usr/lib/jvm/java-11-openjdk-amd64" stamp="1576921959477"/>
+    <entry loc="/usr/lib/jvm/adoptopenjdk-11-openj9-amd64" stamp="1611661646197"/>
+</dirs>
